@@ -177,6 +177,7 @@ header .icons #menu-bars{
 
 .home .home-slider .slide{
     display: flex;
+    flex-direction: column;
     align-items: center;
     flex-wrap: wrap;
     gap:2rem; 
