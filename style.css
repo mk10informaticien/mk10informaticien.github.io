@@ -162,7 +162,7 @@ section .title::after{
 }
 
 
-/* home section styling */
+/* section accueil */
 .home{
     display: flex;
     background: url("images/informe.jpg") no-repeat center;
@@ -213,7 +213,7 @@ section .title::after{
     background: none;
 }
 
-/* about section styling */
+/* presentation section */
 .about .title::after{
     content: "A propos d'entreprise";
 }
@@ -257,7 +257,7 @@ section .title::after{
     background: none;
 }
 
-/* services section styling */
+/* services section */
 .services, .teams{
     color:#fff;
     background: #111;
@@ -378,9 +378,9 @@ section .title::after{
     width: 70%;
 }
 
-/* teams section styling */
+/* e2ic section */
 .teams .title::after{
-    content: "Qui sommes-nous";
+    content: "Rencontrez notre équipe et les photos";
 }
 .teams .carousel .card{
     background: #222;
